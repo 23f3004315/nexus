@@ -1,8 +1,3 @@
-/**
- * NexusAI - Advanced AI Assistant (Full-Featured)
- * v3.0.0 (Feature Merge + Completed Tools)
- * Author: YourName (Original) & AI Assistant (Refactoring & Completion)
- */
 class NexusAI {
     constructor() {
         this.version = '3.0.0';
