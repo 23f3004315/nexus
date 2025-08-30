@@ -1,8 +1,4 @@
-/**
- * NexusAI - Advanced AI Assistant
- * v2.8.0 (Updated: AI Pipe integration + bug fixes)
- * Author: YourName (Original) & AI Assistant (Refactoring)
- */
+
 class NexusAI {
     constructor() {
         this.version = '2.8.0';
