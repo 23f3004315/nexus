@@ -1,4 +1,3 @@
-
 class NexusAI {
     constructor() {
         this.version = '2.8.0';
