@@ -1,6 +1,6 @@
 # NexusAI: A Browser-Based LLM Agent Proof-of-Concept (POC)
 
-![NexusAI Screenshot](https://i.imgur.com/your-screenshot-url.png) **NexusAI** is a minimal yet powerful proof-of-concept demonstrating a browser-based LLM agent that can reason and use external tools to accomplish complex tasks. This project showcases how to implement a core reasoning loop in JavaScript, enabling the agent to dynamically call tools like web search and code execution until a goal is met.
+**NexusAI** is a minimal yet powerful proof-of-concept demonstrating a browser-based LLM agent that can reason and use external tools to accomplish complex tasks. This project showcases how to implement a core reasoning loop in JavaScript, enabling the agent to dynamically call tools like web search and code execution until a goal is met.
 
 ## ✨ Key Features
 
